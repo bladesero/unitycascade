@@ -1,0 +1,7 @@
+{
+  "name": "ShurikenCascade.Editor",
+  "rootNamespace": "ShurikenCascade",
+  "references": ["ShurikenCascade.Runtime", "Unity.RenderPipelines.Core.Runtime", "Unity.RenderPipelines.Core.Editor", "Unity.RenderPipelines.Universal.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

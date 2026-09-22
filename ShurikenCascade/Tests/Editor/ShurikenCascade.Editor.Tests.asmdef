@@ -1,0 +1,7 @@
+{
+  "name": "ShurikenCascade.Editor.Tests",
+  "references": ["ShurikenCascade.Editor", "ShurikenCascade.Runtime", "ShurikenCascade.Tests.Runtime", "Unity.RenderPipelines.Core.Runtime", "Unity.RenderPipelines.Universal.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
